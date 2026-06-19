@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Roblox Script</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>ROBLOX SCRIPT</h1>
+
+<div class="card">
+<img src="grow.jpg">
+
+<h2>🌱 Grow A Garden 2</h2>
+
+<p>Auto farm, auto collect at marami pang iba.</p>
+
+<a href="#">
+<button>Get Script</button>
+</a>
+
+</div>
+
+</body>
+</html>
